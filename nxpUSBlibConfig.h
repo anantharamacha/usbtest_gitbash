@@ -35,6 +35,14 @@
  *
  *  This file contains main configurations of nxpUSBlib library.
  */
+ 
+ 
+
+
+ /*testing changes made  */
+ 
+ 
+ 
 
 #ifndef NXPUSBLIB_CONFIG_H_
 #define NXPUSBLIB_CONFIG_H_
